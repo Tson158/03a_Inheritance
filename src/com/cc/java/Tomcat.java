@@ -6,6 +6,7 @@ public class Tomcat {
     private String furColor;
     private int age;
     
+    // private int counter;
 
 
     
